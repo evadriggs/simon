@@ -91,7 +91,7 @@ function App() {
       <footer className='bg-dark text-dark text-muted'>
         <div className='container-fluid'>
           <span className='text-reset'>Eva Driggs</span>
-          <a className='text-reset' href='https://github.com/evadriggs'>
+          <a className='text-reset' href='https://github.com/evadriggs/simon'>
             Source
           </a>
         </div>
