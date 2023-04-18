@@ -1,3 +1,3 @@
-# simon-service
+# simon-websocket
 
-This deliverable demonstrates converting the JavaScript application into a web application by implementing a web service that listens on a network port for HTTP requests.
+This deliverable demonstrates peer to peer communication using WebSocket.
