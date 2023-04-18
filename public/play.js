@@ -179,7 +179,9 @@ const game = new Game();
 
 function delay(milliseconds) {
   return new Promise((resolve) => {
-    setTimeout(resolve, milliseconds);
+    setTimeout(() => {
+      resolve(true);
+    }, milliseconds);
   });
 }
 
